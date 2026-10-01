@@ -118,6 +118,9 @@
 
 ### Тестирование
 
+<img width="350" height="169" alt="test2 2" src="https://github.com/user-attachments/assets/49b97295-1f4c-4c84-a9fa-3476111db4ac" />
+
+<img width="350" height="89" alt="test2 2 2" src="https://github.com/user-attachments/assets/8352d735-3020-487d-9aba-99785d3ca472" />
 
 
 ## Задача 4
@@ -137,6 +140,11 @@
 
 ### Тестирование
 
+<img width="340" height="130" alt="test2 4" src="https://github.com/user-attachments/assets/b12c6ccc-af4b-46e5-911c-3c10fc42af6d" />
+
+<img width="335" height="84" alt="test2 4 2" src="https://github.com/user-attachments/assets/92d2aa69-e484-4a97-85ef-cdccdd95f377" />
+
+<img width="340" height="95" alt="test2 4 3" src="https://github.com/user-attachments/assets/07cc08f5-3b52-4a86-9f5f-9ccd5a728891" />
 
 ## Задача 6
 
@@ -152,6 +160,10 @@
 Например, для чисел 5, 7 и 2 подходит равенство 5 + 2 = 7, значит ответ `true`. Для чисел 8, -1 и 4 суммы пар равны 7, 12 и 3, и ни одна не равна оставшемуся числу, значит ответ `false`.
 
 ### Тестирование
+
+<img width="351" height="147" alt="test2 6" src="https://github.com/user-attachments/assets/520a3efe-66d8-47e9-b75e-aa7935cec7a5" />
+
+<img width="324" height="109" alt="test2 6 2" src="https://github.com/user-attachments/assets/07ded0fd-4970-4e72-9173-0ebcb2730a23" />
 
 
 ## Задача 8
@@ -173,6 +185,11 @@
 
 ### Тестирование
 
+<img width="401" height="183" alt="test2,8" src="https://github.com/user-attachments/assets/40f946dc-063e-4827-951a-aea8f6bc4511" />
+
+<img width="250" height="72" alt="test2 8 2" src="https://github.com/user-attachments/assets/229a7f42-1f3f-49fc-89cd-a9a9629dced7" />
+
+<img width="272" height="77" alt="test2 8 3" src="https://github.com/user-attachments/assets/5cdfa55c-ac52-4535-bb77-5545123c580d" />
 
 ## Задача 10
 
@@ -191,6 +208,11 @@
 
 ### Тестирование
 
+<img width="350" height="135" alt="test2 10" src="https://github.com/user-attachments/assets/f4810417-7897-46a9-a8aa-a3d178c12997" />
+
+<img width="352" height="81" alt="test2 10 2" src="https://github.com/user-attachments/assets/8710a796-5f8c-4692-8e31-4c374dfe139e" />
+
+<img width="360" height="77" alt="test2 10 3" src="https://github.com/user-attachments/assets/76ade482-fb2a-45f9-8002-19eae4b28216" />
 
 # Задание 3
 
